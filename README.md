@@ -1,8 +1,3 @@
----
-layout: home
-title: Thomas Hottinger - CV
----
-
 ## Kontakt
 - Adresse: Feldheim 32, 6023 Rothenburg
 - Telefon: 079 / 261 29 19
