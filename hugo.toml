@@ -1,4 +1,4 @@
-baseURL = 'https://dein-username.github.io/'
+baseURL = 'https://tomhottinger.github.io/'
 languageCode = 'de-de'
 title = 'Meine Newsroom Website'
 theme = 'newsroom'
