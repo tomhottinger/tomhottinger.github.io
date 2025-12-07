@@ -1,0 +1,28 @@
+baseURL = 'https://dein-username.github.io/'
+languageCode = 'de-de'
+title = 'Meine Newsroom Website'
+theme = 'newsroom'
+
+[params]
+  description = 'Eine moderne News-Website'
+  author = 'Dein Name'
+
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = 'Home'
+    url = '/'
+    weight = 1
+  
+  [[menu.main]]
+    identifier = 'about'
+    name = 'Über uns'
+    url = '/about/'
+    weight = 2
+  
+  [[menu.main]]
+    identifier = 'posts'
+    name = 'Artikel'
+    url = '/posts/'
+    weight = 3
+    
