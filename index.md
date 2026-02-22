@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Vorname Nachname | Application Manager & APV im Gesundheitswesen"
+title: "Thomas Hottinger | Application Manager & APV im Gesundheitswesen"
 ---
 <div style="text-align: center; margin-bottom: 2rem;">
   <img 
