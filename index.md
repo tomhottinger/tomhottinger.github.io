@@ -30,7 +30,7 @@ title: "Thomas Hottinger | Application Manager & APV im Gesundheitswesen"
 
 ---
 
-> *Erfahrener Applikationsmanager mit Fokus auf IT-Lösungen im Gesundheitswesen. Ich verbinde technisches Know-how mit einem tiefen Verständnis für klinische Prozesse und gesetzliche Anforderungen.*
+> *Vielseitiger Medizininformatiker Spitalbereich. Qualifikation als Entwickler, Supporter und Requirements Engineer. Gute Kenntnisse von Schnittstellen und Prozessen im Spitalumfeld. Kenntnisse von KIS, RIS/PACS und weiteren Applikationen.*
 
 > *Experienced application manager with a focus on IT solutions in healthcare. I bridge technical expertise with a deep understanding of clinical workflows and regulatory requirements.*
 
