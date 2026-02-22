@@ -1,3 +1,80 @@
-theme: jekyll-theme-minimal
+# ============================================================
+#  _config.yml – GitHub Pages / Jekyll Konfiguration
+#  Applikationsmanager / APV Profil
+# ============================================================
+
+# --- Basis-Informationen ---
+title: "Vorname Nachname | Application Manager"
+tagline: "Applikationsmanager & APV im Gesundheitswesen"
+description: >
+  Erfahrener Applikationsmanager mit Fokus auf klinische IT-Systeme,
+  HL7/FHIR-Schnittstellen und regulatorische Anforderungen im Gesundheitswesen.
+  Experienced application manager specializing in clinical IT systems and healthcare IT.
+
+author:
+  name: "Vorname Nachname"
+  email: "email@beispiel.ch"
+  linkedin: "https://linkedin.com/in/dein-profil"
+  github: "https://github.com/dein-username"
+  location: "Zürich, Schweiz"
+
+# --- Theme ---
+# Empfehlung: "minima" (Standard, einfach) oder "just-the-docs" (professioneller)
+# Für minima: nichts weiter nötig
+# Für just-the-docs: siehe Kommentar unten
+remote_theme: pages-themes/minima@v2.5.1
+# Alternativ für ein moderneres Theme:
+# remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# --- minima Theme Einstellungen ---
+minima:
+  skin: auto   # auto = folgt System Dark/Light Mode | classic | dark | solarized
+
+# --- Navigation (für just-the-docs Theme) ---
+# nav_enabled: true
+
+# --- URL Einstellungen ---
+# Passe baseurl an deinen GitHub-Username und Repo-Namen an:
+# Wenn dein Repo "username.github.io" heisst → baseurl: ""
+# Wenn dein Repo "mein-profil" heisst → baseurl: "/mein-profil"
+url: "https://dein-username.github.io"
+baseurl: ""   # oder z.B. "/mein-profil"
+
+# --- Profil-Bild ---
+# Pfad zu deinem Portrait (siehe Anleitung unten)
+avatar: "/assets/images/portrait.jpg"
+
+# --- Social Links (für minima automatisch in Footer) ---
+social:
+  links:
+    - https://linkedin.com/in/dein-profil
+    - https://github.com/dein-username
+
+# --- SEO & Meta ---
+lang: "de-CH"
+timezone: Europe/Zurich
+
+# --- Markdown & Syntax ---
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+
+# --- Ausschlüsse ---
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+
+
+
+
 title: Tom's homepage
 description: Bookmark this to keep an eye on my project updates!
