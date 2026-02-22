@@ -2,7 +2,28 @@
 layout: default
 title: "Vorname Nachname | Application Manager & APV im Gesundheitswesen"
 ---
-
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img 
+    src="/assets/images/portrait.jpg" 
+    alt="Portrait Vorname Nachname"
+    style="
+      width: 160px;
+      height: 160px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid #0077b6;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    "
+  />
+  <h1 style="margin-top: 1rem;">Vorname Nachname</h1>
+  <p><strong>Applikationsmanager | APV | Gesundheitswesen</strong></p>
+  <p>
+    📍 Zürich, Schweiz &nbsp;·&nbsp;
+    📧 <a href="mailto:email@beispiel.ch">email@beispiel.ch</a> &nbsp;·&nbsp;
+    🔗 <a href="https://linkedin.com/in/dein-profil">LinkedIn</a> &nbsp;·&nbsp;
+    🐙 <a href="https://github.com/dein-username">GitHub</a>
+  </p>
+</div>
 # Vorname Nachname
 **Applikationsmanager | APV | Gesundheitswesen**  
 📍 Standort, Schweiz/Deutschland · 📧 email@beispiel.ch · 🔗 [LinkedIn](https://linkedin.com) · 🐙 [GitHub](https://github.com)
